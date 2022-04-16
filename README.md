@@ -239,6 +239,14 @@ The following pictured demonstrates the steps.
 <img width="652" alt="Screenshot 2022-04-15 at 16 24 31" src="https://user-images.githubusercontent.com/103360590/163592355-edcb0e99-0577-4e89-ad2a-8e8b5d30fd05.png">
 <img width="652" alt="Screenshot 2022-04-15 at 16 25 02" src="https://user-images.githubusercontent.com/103360590/163592382-d697b327-8496-4308-b040-02b0ca372183.png">
 
+I couldnt see the php page on my server when i reloaded. I had to check the vervion on the virtual machine using the following command just to be sure its been installed. 
+       
+             <php --version>
+
+<img width="717" alt="Screenshot 2022-04-16 at 21 39 07" src="https://user-images.githubusercontent.com/103360590/163690897-adc83c33-c20e-469b-b91e-5b3f382f605f.png">
+
+
+
 
 
 
